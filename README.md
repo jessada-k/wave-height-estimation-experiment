@@ -18,4 +18,4 @@ Run test.m to see analysis results.
 ## Citation
 Please cite the following paper if you use our data.
 
-Parin Jatesiktat, Kasorn Galajit, Thanaphat Khemniwat, Pannathorn Sathirasattayanon, Patthranit Kaewcharuay, and Jessada Karnjana, "<b>Dominant Wave Height Estimation Based on Spectral Analysis for Coastal Erosion Monitoring Systems in Real Time,/b>."
+Parin Jatesiktat, Kasorn Galajit, Thanaphat Khemniwat, Pannathorn Sathirasattayanon, Patthranit Kaewcharuay, and Jessada Karnjana, "<b>Dominant Wave Height Estimation Based on Spectral Analysis for Coastal Erosion Monitoring Systems in Real Time<b>."
