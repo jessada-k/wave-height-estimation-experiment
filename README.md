@@ -1,8 +1,8 @@
 # wave-height-estimation-experiment
 Wave height estimation from data collected by a pressure sensor
 
-**Author:**
-Jessada K.
+**Authors:**
+Jessada Karnjana, Kasorn Galajit, Parin Jatesiktat, 
 
 ## About
 The experiments were conducted on a beach in Khao Sam Roi Yot national park in Prachuapkhirikhan Province, Thailand. A sensor node was installed to monitor and record the water surface level every 36 milliseconds. Thus, there were 28 data points in a second or 1,680 data points in one minute. Data used in this study were collected for 35 minutes on 29 June 2023 morning. For our analysis, the 35-minute time series were segmented into 35 1-minute time series.
