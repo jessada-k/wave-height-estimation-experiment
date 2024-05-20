@@ -5,7 +5,7 @@ Wave height estimation from data collected by a pressure sensor
 Jessada Karnjana et al.
 
 ## About
-The experiments were conducted on a beach in Khao Sam Roi Yot National Park in Prachuapkhirikhan Province, Thailand. A sensor node was installed to monitor and record the water surface level every 36 milliseconds. Thus, there were 28 data points in a second or 1,680 data points in one minute. Data used in this study were collected for 35 minutes on 29 June 2023 morning. For our analysis, the 35-minute time series was segmented into 35 1-minute time series.
+The experiments were conducted on a beach in Khao Sam Roi Yot National Park in Prachuapkhirikhan Province, Thailand. A sensor node was installed to monitor and record the water surface level every 36 milliseconds. Thus, there were 28 data points in a second or 1,680 data points in one minute. Data used in this study were collected for 35 minutes on 29 June 2023 morning. For our analysis, the 35-minute time series was segmented into 35 1-minute ones.
 
 Y.mat = data from the sensor (35 1-min signals, 1680 samples each)</br>
 G.mat = observed water surface levels from the video record
