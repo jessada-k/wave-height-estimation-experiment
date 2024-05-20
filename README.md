@@ -20,4 +20,4 @@ Please cite the following paper if you use our data.
 
 Jatesiktat, P., Galajit, K., Khemniwat, T., Kaewcharuay, P., Sathirasattayanon, P. and Karnjana, J., 2023, November. Dominant Wave Height Estimation Based on Spectral Analysis for Coastal Erosion Monitoring Systems in Real Time. In 2023 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP) (pp. 1-6). IEEE.
 
-doi: https://github.com/Biometrix-4/FireSpot-CNX
+doi: https://ieeexplore.ieee.org/document/10354641
